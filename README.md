@@ -10,7 +10,7 @@ I am an aspiring programmer and game developer at Roblox Studio.
 Working on the Windows 10 operating system
 ___
 ## 🔧 Languages
-[![Luau](https://img.shields.io/badge/-Luau-090909?style=for-the-badge&logo=Python&logoColor=27A0D9)](https://luau-lang.org/)
+[![Luau](https://img.shields.io/badge/-Luau-090909?style=for-the-badge&logo=&logoColor=27A0D9)](https://luau-lang.org/)
 
 [![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=27A0D9)](https://www.python.org/)
 ___
