@@ -1,16 +1,23 @@
-### Hi there 👋
+# 👋Welcome
 
-<!--
-**MrDIDJoy/MrDIDJoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
 
-Here are some ideas to get you started:
+Hi! My name is DIDJoy. I'm from Russia.
+I am an aspiring programmer and game developer at Roblox Studio.
+Favorite programming languages are Lua and Python
+They work on the Windows 10 operating system
+___
+## 🔧 Languages
+Luau
+Python
+___
+## 📚Learning Languages
+Python
+___
+## 📖Learning Libraries
+Flet (on Python)
+___
+## 🔓Open Source Projects
+>My projects are open source at the moment:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+It's empty so far :/
