@@ -7,7 +7,7 @@ ___
 
 ### Hi! My name is DIDJoy. I'm from Russia.
 ### I am an aspiring programmer and game developer at Roblox Studio.
-### Work on Windows 10
+### I work on the Windows 10 operating system.
 
 ___
 ## 🔧 Languages
