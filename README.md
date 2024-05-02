@@ -5,25 +5,25 @@ ___
 <img width="51%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDIDJoy&hide=html&layout=compact&hide_border=true&hide_title=true&count_private=true&theme=dracula&icon_color=5194f0&bg_color=0d1117"/>
 
 
-Hi! My name is DIDJoy. I'm from Russia.
-I am an aspiring programmer and game developer at Roblox Studio.
-Working on the Windows 10 operating system
+### Hi! My name is DIDJoy. I'm from Russia.
+### I am an aspiring programmer and game developer at Roblox Studio.
+### Working on the Windows 10 operating system
 
 ___
 ## 🔧 Languages
-[![Luau](https://img.shields.io/badge/-Luau-090909?style=for-the-badge&logo=&logoColor=27A0D9)](https://luau-lang.org/)
+[![Luau](https://img.shields.io/badge/-Luau-090909?style=for-the-badge&logo=RobloxStudio&logoColor=27A0D9)](https://luau-lang.org/)
 
 [![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=27A0D9)](https://www.python.org/)
 ___
 ## 📚Learning Languages
 >The programming languages that I am currently learning:
 
-Python
+[![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=27A0D9)](https://www.python.org/)
 ___
 ## 📖Learning Libraries
 >The libraries that I am currently learning:
 
-Flet (on Python)
+[Flet](https://github.com/flet-dev) (Python)
 ___
 ## 🔓Open Source Projects
 >My projects with open source at the moment:
