@@ -30,4 +30,4 @@
 
 It's empty so far :/
 
-![GitHub Release](https://img.shields.io/github/v/release/:user/:repo) 
+[//]: # (![GitHub Release]&#40;https://img.shields.io/github/v/release/:user/:repo&#41; )
