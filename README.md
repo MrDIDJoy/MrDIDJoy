@@ -1,4 +1,4 @@
-# 👋 Welcome! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMrDIDJoy&count_bg=%23090909&title_bg=%23090909&icon=buzzfeed.svg&icon_color=%2327A0D9&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com)
+# 👋 Welcome! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMrDIDJoy%2FMrDIDJoy&count_bg=%23090909&title_bg=%23090909&icon=buzzfeed.svg&icon_color=%2327A0D9&title=visits&edge_flat=true)](https://hits.seeyoufarm.com)
  
 <img width="51%" align="right" src="https://github-readme-stats.vercel.app/api?username=MrDIDJoy&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dracula&icon_color=5194f0&bg_color=0d1117&include_all_commits=true&rank_icon=github&show_icons=true">
 <img width="51%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=MrDIDJoy&theme=dark&background=000000">
