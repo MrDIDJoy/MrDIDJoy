@@ -8,6 +8,12 @@
 ### I work on the Windows 10 operating system.
 ### I will be very glad if you study my source code projects :)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## 🔧 Languages
 <img width="51%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDIDJoy&hide=html&layout=compact&hide_border=true&hide_title=true&count_private=true&theme=dracula&icon_color=5194f0&bg_color=0d1117"/>
 
