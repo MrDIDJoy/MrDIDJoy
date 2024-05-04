@@ -49,9 +49,7 @@
 
 ## 🔓Open Source Projects
 - My projects with open source at the moment:
-
     It's empty so far :/
-
 </b>
 
 [//]: # (![GitHub Release]&#40;https://img.shields.io/github/v/release/:user/:repo&#41; )
