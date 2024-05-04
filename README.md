@@ -17,7 +17,8 @@
 <br>
 
 ## 🔧 Languages and Tools
-<img width="51%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDIDJoy&hide=html&layout=compact&hide_border=true&hide_title=true&count_private=true&theme=dracula&icon_color=5194f0&bg_color=0d1117"/>
+
+<img width="51%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDIDJoy&hide=html&layout=compact&hide_border=true&hide_title=true&count_private=true&theme=dracula&icon_color=5194f0&bg_color=0d1117">
 
 - Languages:
 
@@ -49,7 +50,7 @@
 
 ## 🔓Open Source Projects
 - My projects with open source at the moment:
-- 
+
     It's empty so far :/
 </b>
 
