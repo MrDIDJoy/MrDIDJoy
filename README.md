@@ -38,19 +38,19 @@
     [![WebStorm](https://img.shields.io/badge/-WebStorm-090909?style=for-the-badge&logo=WebStorm&logoColor=27A0D9)](https://www.python.org/)
 
 ## 📚Learning Languages
->The programming languages that I am currently learning:
+- The programming languages that I am currently learning:
 
-[![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=27A0D9)](https://www.python.org/)
+    [![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=27A0D9)](https://www.python.org/)
 
 ## 📖Learning Libraries
->The libraries that I am currently learning:
+- The libraries that I am currently learning:
 
-[Flet](https://github.com/flet-dev) (Python)
+    [Flet](https://github.com/flet-dev) (on Python)
 
 ## 🔓Open Source Projects
->My projects with open source at the moment:
+- My projects with open source at the moment:
 
-It's empty so far :/
+    It's empty so far :/
 
 </b>
 
