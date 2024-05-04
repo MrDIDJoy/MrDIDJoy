@@ -55,11 +55,6 @@
 
     It's empty so far :/
 
-## 🔥Recent GitHub Activity 
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 </b>
 
 [//]: # (![GitHub Release]&#40;https://img.shields.io/github/v/release/:user/:repo&#41; )
