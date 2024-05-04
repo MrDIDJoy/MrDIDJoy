@@ -1,6 +1,6 @@
 <b>
 
-# 👋 Welcome! 
+# 👋Welcome! 
 
 <img width="51%" align="right" src="https://github-readme-stats.vercel.app/api?username=MrDIDJoy&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dracula&icon_color=5194f0&bg_color=0d1117&include_all_commits=true&rank_icon=github&show_icons=true">
 <img width="51%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=MrDIDJoy&theme=dark&background=000000">
@@ -16,7 +16,7 @@
 <br>
 <br>
 
-## 🔧 Languages and Tools
+## 🔧Languages and Tools
 
 <img width="51%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDIDJoy&hide=html&layout=compact&hide_border=true&hide_title=true&count_private=true&theme=dracula&icon_color=5194f0&bg_color=0d1117">
 
@@ -54,7 +54,11 @@
 - My projects with open source at the moment:
 
     It's empty so far :/
-</b>
 
+## 🔥Recent GitHub Activity 
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</b>
 [//]: # (![GitHub Release]&#40;https://img.shields.io/github/v/release/:user/:repo&#41; )
 [//]: # (![GitHub Release]&#40;https://img.shields.io/github/v/release/:user/:repo&#41; )
