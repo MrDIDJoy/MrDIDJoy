@@ -9,7 +9,7 @@
 ### I am an aspiring programmer and game developer at Roblox Studio.
 ### I work on the Windows 10 operating system.
 ### I will be very glad if you study my source code projects :)
-
+### Besides programming, I like to play computer games.
 <br>
 <br>
 <br>
