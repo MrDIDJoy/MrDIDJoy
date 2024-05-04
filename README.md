@@ -1,3 +1,5 @@
+<b>
+
 # 👋 Welcome! 
 
 <img width="51%" align="right" src="https://github-readme-stats.vercel.app/api?username=MrDIDJoy&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dracula&icon_color=5194f0&bg_color=0d1117&include_all_commits=true&rank_icon=github&show_icons=true">
@@ -14,12 +16,26 @@
 <br>
 <br>
 
-## 🔧 Languages
+## 🔧 Languages and Tools
 <img width="51%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDIDJoy&hide=html&layout=compact&hide_border=true&hide_title=true&count_private=true&theme=dracula&icon_color=5194f0&bg_color=0d1117"/>
 
-[![Luau](https://img.shields.io/badge/-Luau-090909?style=for-the-badge&logo=RobloxStudio&logoColor=27A0D9)](https://luau-lang.org/)
+- Languages:
 
-[![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=27A0D9)](https://www.python.org/)
+    [![Luau](https://img.shields.io/badge/-Luau-090909?style=for-the-badge&logo=RobloxStudio&logoColor=27A0D9)](https://luau-lang.org/)
+
+    [![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=27A0D9)](https://www.python.org/)
+    
+    [![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=27A0D9)](https://www.python.org/)
+
+    [![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=27A0D9)](https://www.python.org/)
+
+- Tools:
+
+    [![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=for-the-badge&logo=PyCharm&logoColor=27A0D9)](https://www.python.org/)
+    
+    [![Roblox Studio](https://img.shields.io/badge/-Roblox&nbsp;Studio-090909?style=for-the-badge&logo=RobloxStudio&logoColor=27A0D9)](https://www.python.org/)
+
+    [![WebStorm](https://img.shields.io/badge/-WebStorm-090909?style=for-the-badge&logo=WebStorm&logoColor=27A0D9)](https://www.python.org/)
 
 ## 📚Learning Languages
 >The programming languages that I am currently learning:
@@ -35,6 +51,8 @@
 >My projects with open source at the moment:
 
 It's empty so far :/
+
+</b>
 
 [//]: # (![GitHub Release]&#40;https://img.shields.io/github/v/release/:user/:repo&#41; )
 [//]: # (![GitHub Release]&#40;https://img.shields.io/github/v/release/:user/:repo&#41; )
