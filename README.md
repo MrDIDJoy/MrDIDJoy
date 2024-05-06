@@ -56,6 +56,3 @@
     It's empty so far :/
 
 </b>
-
-[//]: # (![GitHub Release]&#40;https://img.shields.io/github/v/release/:user/:repo&#41; )
-[//]: # (![GitHub Release]&#40;https://img.shields.io/github/v/release/:user/:repo&#41; )
