@@ -38,11 +38,6 @@
 
     [![WebStorm](https://img.shields.io/badge/-WebStorm-090909?style=for-the-badge&logo=WebStorm&logoColor=27A0D9)](https://www.python.org/)
 
-## 📚Learning Languages
-- The programming languages that I am currently learning:
-
-    [![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=27A0D9)](https://www.python.org/)
-
 ## 📖Learning Libraries
 - The libraries that I am currently learning:
 
