@@ -48,7 +48,7 @@
 
     [Flet](https://github.com/flet-dev) (on Python)
 
-    [Pypresence](https://github.com/qwertyquerty/pypresence) (on Python)
+[//]: # (    [Pypresence]&#40;https://github.com/qwertyquerty/pypresence&#41; &#40;on Python&#41;)
 
 ## 🔓Open Source Projects
 - My projects with open source at the moment:
