@@ -34,11 +34,11 @@
 
 - Tools:
 
-    [![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=for-the-badge&logo=PyCharm&logoColor=27A0D9)](https://www.python.org/)
+    [![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=for-the-badge&logo=PyCharm&logoColor=27A0D9)](https://www.jetbrains.com/pycharm)
     
-    [![Roblox Studio](https://img.shields.io/badge/-Roblox&nbsp;Studio-090909?style=for-the-badge&logo=RobloxStudio&logoColor=27A0D9)](https://www.python.org/)
+    [![Roblox Studio](https://img.shields.io/badge/-Roblox&nbsp;Studio-090909?style=for-the-badge&logo=RobloxStudio&logoColor=27A0D9)](https://create.roblox.com)
 
-    [![WebStorm](https://img.shields.io/badge/-WebStorm-090909?style=for-the-badge&logo=WebStorm&logoColor=27A0D9)](https://www.python.org/)
+    [![WebStorm](https://img.shields.io/badge/-WebStorm-090909?style=for-the-badge&logo=WebStorm&logoColor=27A0D9)](https://www.jetbrains.com/webstorm)
 
 ## 📖Learning Libraries
 - The libraries that I am currently learning:
