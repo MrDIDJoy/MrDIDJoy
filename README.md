@@ -26,11 +26,11 @@
 
     [![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=27A0D9)](https://www.python.org/)
 
-    [![JavaScript](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=JavaScript&logoColor=27A0D9)]()
+    [![JavaScript](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=JavaScript&logoColor=27A0D9)]
 
-    [![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=27A0D9)](https://www.python.org/)
+    [![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=27A0D9)]
 
-    [![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=27A0D9)](https://www.python.org/)
+    [![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=27A0D9)]
 
 - Tools:
 
