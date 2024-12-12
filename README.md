@@ -40,11 +40,6 @@
 
     [![WebStorm](https://img.shields.io/badge/-WebStorm-090909?style=for-the-badge&logo=WebStorm&logoColor=27A0D9)](https://www.jetbrains.com/webstorm)
 
-## 📖Learning Libraries
-- The libraries that I am currently learning:
-
-    [Flet](https://github.com/flet-dev) (on Python)
-
 [//]: # (    [Pypresence]&#40;https://github.com/qwertyquerty/pypresence&#41; &#40;on Python&#41;)
 
 ## 🔓Open Source Projects
