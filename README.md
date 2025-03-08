@@ -2,7 +2,6 @@
     
 # 👋Welcome! 
     
-![](https://komarev.com/ghpvc/?username=MrDIDJoy&abbreviated=true&style=for-the-badge&color=27A0D9&label=Total_Profile_Visits)
 <img width="51%" align="right" src="https://github-readme-stats.vercel.app/api?username=MrDIDJoy&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dracula&icon_color=5194f0&bg_color=0d1117&include_all_commits=true&rank_icon=github&show_icons=true">
 <img width="51%" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=MrDIDJoy&theme=dark">
 
