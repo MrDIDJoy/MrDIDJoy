@@ -16,7 +16,7 @@
 
 ## 🔧Languages and Tools
 
-<img width="51%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDIDJoy&hide=html&layout=compact&hide_border=true&hide_title=true&count_private=true&theme=dracula&icon_color=5194f0&bg_color=0d1117">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MrDIDJoy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
 - Languages:
 
